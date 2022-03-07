@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal_700"
+    android:orientation="vertical"
+    tools:context=".Producto">
+
+
+    <EditText
+        android:id="@+id/editTextMensaje"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        android:hint="Ingrese Codigo" />
+
+    <EditText
+        android:id="@+id/editTextpProducto"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        android:hint="Ingrese nombre Producto" />
+
+    <EditText
+        android:id="@+id/editTextSTOCK"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        android:hint="Ingrese Stock" />
+
+    <EditText
+        android:id="@+id/editTextP"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        android:hint="Ingrese Precio Costo" />
+
+    <EditText
+        android:id="@+id/editTextPrecioVenta"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        android:hint="Ingrese Precio Venta" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="273dp">
+
+            <Button
+                android:id="@+id/btnGuardar"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="GUARDAR"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_editor_absoluteX="3dp" />
+
+            <Button
+                android:id="@+id/Actualizar"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="16dp"
+                android:text="Button"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.231" />
+
+            <Button
+                android:id="@+id/btnEliminar"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:text="Borrar Realtime"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.231" />
+
+            <Button
+                android:id="@+id/ntnActualizar"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:layout_marginEnd="16dp"
+                android:text="actualizar"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <Button
+                android:id="@+id/btnRegresar1"
+                android:layout_width="133dp"
+                android:layout_height="45dp"
+                android:onClick="regresar1"
+                android:text="Regresar"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

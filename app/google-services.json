@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "579649501079",
+    "firebase_url": "https://asoftware2021-2-default-rtdb.firebaseio.com",
+    "project_id": "asoftware2021-2",
+    "storage_bucket": "asoftware2021-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579649501079:android:d59d2c6a9f22cb151676d2",
+        "android_client_info": {
+          "package_name": "com.desarrollo1.bbffautentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7YGmYupy28Le7RMxw2VuYLdBzirqz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579649501079:android:533f958b92f1c6101676d2",
+        "android_client_info": {
+          "package_name": "com.desarrollo1.fbautentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7YGmYupy28Le7RMxw2VuYLdBzirqz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579649501079:android:e64094d90a6240041676d2",
+        "android_client_info": {
+          "package_name": "com.desarrollo1.fbauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7YGmYupy28Le7RMxw2VuYLdBzirqz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579649501079:android:e3b2a937571125121676d2",
+        "android_client_info": {
+          "package_name": "com.desarrollo1.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7YGmYupy28Le7RMxw2VuYLdBzirqz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579649501079:android:c4deaa6f7a7c43821676d2",
+        "android_client_info": {
+          "package_name": "com.desarrollo1.realtimedatabas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7YGmYupy28Le7RMxw2VuYLdBzirqz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579649501079:android:e94dfe98ea1f4f4d1676d2",
+        "android_client_info": {
+          "package_name": "com.desarrollo1.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7YGmYupy28Le7RMxw2VuYLdBzirqz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579649501079:android:218924eeff9400941676d2",
+        "android_client_info": {
+          "package_name": "com.desarrollo1.rtdbreciclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg7YGmYupy28Le7RMxw2VuYLdBzirqz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579649501079-vqpfdue48c97vc1lolhc0gpirman9a45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
